@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm matt</h1>
 <h3 align="center">android buildbot</h3>
 
-- 📫Primary email **amatthew642@gmail.com**
+- 📫Contact me **https://t.me/mattDev0**
 
 - ⚡ Fun fact **I am stubborn to problems**
 
