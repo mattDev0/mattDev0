@@ -32,7 +32,4 @@
 - Exploring low-level system integrations and telemetry with Rust.
 - Hardening Kubernetes infrastructure with unprivileged, non-root containers.
 
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattDev0&show_icons=true&theme=radical" alt="mattDev0's GitHub stats" />
-</p>
+
